@@ -1,4 +1,13 @@
-### Hi there 👋
+<h3 align="center">👋 Hey! I'm JackMD</h3>
+<p align="center">
+  <a href="https://twitter.com/JackMTaylor_">Twitter</a>
+</p>
+
+---
+
+I am a software developer having well over 4 years of experience working with PHP, but I have also worked with other languages such as Java, C++, C#, Python, JavaScript, Go etc. I'm currently busy with university :(
+
+If you want to know more about me, follow me [on twitter](https://twitter.com/JackMTaylor_).
 
 <!--
 **JackMD/JackMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
