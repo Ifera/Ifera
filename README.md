@@ -2,7 +2,7 @@
 
 **Hey! I'm Tayyab!** 
 
-A student of computer engineering and a software developer having 4+ years of experience in PHP. Also a backend game and web developer by passion with great interests in graphic designing and AI. Well-versed in numerous programming languages, proactive and always staying on top of demands in fast-paced environment.
+A Computer Engineering major. A software developer having 6+ years of experience in PHP. Also a backend game and web developer by passion with great interests in Artificial Intelligence (AI) and graphic designing. Well-versed in numerous programming languages, proactive and always staying on top of demands in fast-paced environment.
 
 - 🌱 I’m currently learning Artifical Intelligence (Machine Learning).
 - 🔭 I have worked with C#, C++, PHP, HTML, Go, Python, Unity.
