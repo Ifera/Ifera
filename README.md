@@ -1,10 +1,11 @@
-![Ifera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ifera&theme=github_dark&show_icons=true)
+![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ifera&theme=github_dark&show_icons=true)
 
 **Hey! I'm Tayyab!** 
 
-A Computer Engineering major. A software developer having 6+ years of experience in PHP. Also a backend game and web developer by passion with great interests in Artificial Intelligence (AI) and graphic designing. Well-versed in numerous programming languages, proactive and always staying on top of demands in fast-paced environment.
+A student of computer engineering with a strong interest in artificial intelligence, machine learning and software development whereby constantly seeking opportunities to learn and grow in these fields by solving real-world problems to improve people’s lives.
 
-- 🌱 I’m currently learning Artifical Intelligence (Machine Learning).
+- ⚡ I'm currently in my final year of undergraduate studies.
+- 🌱 I have great intersts in Artifical Intelligence (Machine Learning).
 - 🔭 I have worked with C#, C++, PHP, HTML, Go, Python, Unity.
 
 Follow me on [twitter](https://twitter.com/ifera_tr) or connect with me on [Linkedin](https://www.linkedin.com/in/tayyabrashid-tr/) or you can join my [discord](https://discord.tayyab.dev/) group.<br />
