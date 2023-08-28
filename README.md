@@ -2,14 +2,13 @@
 
 **Hey! I'm Tayyab!** 
 
-A student of computer engineering with a strong interest in artificial intelligence, machine learning and software development whereby constantly seeking opportunities to learn and grow in these fields by solving real-world problems to improve people’s lives.
+A Computer Engineer with a strong interest in artificial intelligence, machine learning and software development whereby constantly seeking opportunities to learn and grow in these fields by solving real-world problems to improve people’s lives.
 
-- ⚡ I'm currently in my final year of undergraduate studies.
-- 🌱 I have great intersts in Artifical Intelligence (Machine Learning).
-- 🔭 I have worked with C#, C++, PHP, HTML, Go, Python, Unity.
+- ⚡ I'm currently working as a Software Engineer at GoSaaS Inc.
+- 🌱 I have great intersts in Artifical Intelligence.
+- 🔭 I have worked with C#, C++, PHP, HTML, Go, Python, Unity, Javascript.
 
-Follow me on [twitter](https://twitter.com/ifera_tr) or connect with me on [Linkedin](https://www.linkedin.com/in/tayyabrashid-tr/) or you can join my [discord](https://discord.tayyab.dev/) group.<br />
-For more info about me please visit my portfolio: [tayyab.dev](https://tayyab.dev).
+Follow me on [twitter](https://twitter.com/ifera_tr) or connect with me on [Linkedin](https://www.linkedin.com/in/tayyabrashid-tr/) or you can join my [discord](https://discord.gg/urQt6ETgYu) group.<br />
 
 <!--
 **Ifera/Ifera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
