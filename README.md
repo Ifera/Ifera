@@ -4,9 +4,10 @@
 
 A Computer Engineer with a strong interest in artificial intelligence, machine learning and software development whereby constantly seeking opportunities to learn and grow in these fields by solving real-world problems to improve people’s lives.
 
-- ⚡ I'm currently working as a Software Engineer at GoSaaS Inc.
-- 🌱 I have great intersts in Artifical Intelligence.
-- 🔭 I have worked with C#, C++, PHP, HTML, Go, Python, Unity, Javascript.
+- ⚡ I'm currently working as a Full Stack + Database Developer at PatientWing US.
+- 🏓 I previously worked as a Software Engineer at GoSaaS Inc. and did some work for Intel.
+- 🌱 I have great intersts in Distributed Computing and Artifical Intelligence.
+- 🔭 I have worked with Java, Springboot, C#, C++, PHP, HTML, Go, Python, Unity, Javascript.
 
 Follow me on [twitter](https://twitter.com/ifera_tr) or connect with me on [Linkedin](https://www.linkedin.com/in/tayyabrashid-tr/) or you can join my [discord](https://discord.gg/urQt6ETgYu) group.<br />
 
