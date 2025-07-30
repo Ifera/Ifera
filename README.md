@@ -2,7 +2,7 @@
 
 **Hey! I'm Tayyab!** 
 
-A Computer Engineer with a strong interest in artificial intelligence, machine learning and software development whereby constantly seeking opportunities to learn and grow in these fields by solving real-world problems to improve people’s lives.
+I am currently pursuing a Master’s in Computer Science at the University of Adelaide, having previously completed my Bachelor’s in Computer Engineering from NUST. With over three years of industry experience, I have a strong interest in distributed computing, artificial intelligence, machine learning, and software development. I am passionate about solving real-world problems that improve lives and constantly seek opportunities to learn, grow, and make meaningful contributions in these fields.
 
 - ⚡ I'm currently working as a Full Stack + Database Developer at PatientWing US.
 - 🏓 I previously worked as a Software Engineer at GoSaaS Inc. and did some work for Intel.
